@@ -34,12 +34,12 @@ pip install -r requirements.txt
 python train.py --epochs 200 --batch_size 1 --dataset facades
 
 
-🖼️ Results
+## 🖼️ Results
 Below are example input-output image pairs after training:
 ![image](https://github.com/user-attachments/assets/703916bc-30b3-4bc1-8c68-64c49899ced9)
 
 
-🤝 Contributors
+## 🤝 Contributors
 Adithiyaa D
 Durvank Gade
 Vasundhra
